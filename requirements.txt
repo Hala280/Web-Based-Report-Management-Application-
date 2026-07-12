@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+pyodbc
+python-jose[cryptography]
+bcrypt
+cryptography
+openpyxl
+reportlab
+pytest
+httpx
