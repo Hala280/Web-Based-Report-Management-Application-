@@ -13,5 +13,5 @@ os.environ.setdefault(
 )
 os.environ.setdefault("JWT_SECRET", "test-secret")
 os.environ.setdefault("JWT_EXPIRE_MINUTES", "60")
-os.environ.setdefault("CRED_ENCRYPTION_KEY", "test-key")
+os.environ.setdefault("CRED_ENCRYPTION_KEY", "3NH-yUvtyHqoJ-hQW8-l75-pvLg5Fdb84vZTX-gP4q0=")
 os.environ.setdefault("LOG_LEVEL", "INFO")
